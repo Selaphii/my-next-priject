@@ -1,3 +1,3 @@
 git add .  
-git commit -m "下書きプレビュー時はSSRをする"
+git commit -m "サイト全体にrevalidateっを設定する"
 git push -uf origin main
