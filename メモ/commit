@@ -1,3 +1,3 @@
 git add .  
-git commit -m "ニュースにISRを適用"
+git commit -m "下書きプレビュー時はSSRをする"
 git push -uf origin main
